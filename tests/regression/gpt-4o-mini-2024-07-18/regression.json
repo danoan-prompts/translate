@@ -3,14 +3,8 @@
     "input": {
       "from_language": "english",
       "to_language": "italian",
-      "message": "pattering"
+      "message": "After a time, she heard a little pattering of feet in the distance and she hastily dried her eyes to see what was coming."
     },
-    "output": [
-      "ticchettio",
-      "battito",
-      "gocce che cadono",
-      "rumore di passi",
-      "scroscio"
-    ]
+    "output": "Dopo un po', sentì un leggero battere di piedi in lontananza e si asciugò frettolosamente gli occhi per vedere cosa stesse arrivando."
   }
 ]

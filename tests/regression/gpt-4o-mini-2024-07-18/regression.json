@@ -1,0 +1,16 @@
+[
+  {
+    "input": {
+      "from_language": "english",
+      "to_language": "italian",
+      "message": "pattering"
+    },
+    "output": [
+      "ticchettio",
+      "battito",
+      "gocce che cadono",
+      "rumore di passi",
+      "scroscio"
+    ]
+  }
+]
